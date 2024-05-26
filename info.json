@@ -2,11 +2,11 @@
     "OWNER_IDS": [
         1219624638628233247
     ],
-    "TOKEN": "MTI0NDA0MDQ4NTAxNDYwNTk1Nw.G0kOjj.l9hWNYHp_SFhJPBzuFHvTTx0zDP2Xz3le4FQnc",
+    "TOKEN": "",
     "BotName": "Nexus",
     "serverLink": "https://discord.com/invite/w9B4fJjdP8",
-    "wh_cl": "https://discord.com/api/webhooks/1242504491526262845/BjWrWxIL8bsrU1Zt2sKqAPZueJofxzEuOuexknSTJvaTYQgm8pOrfM7jteZNMWczEyxX",
-    "wh_bl": "https://discord.com/api/webhooks/1242504491526262845/BjWrWxIL8bsrU1Zt2sKqAPZueJofxzEuOuexknSTJvaTYQgm8pOrfM7jteZNMWczEyxX",
+    "wh_cl": "",
+    "wh_bl": "",
     "statusText": ".help",
     "EXTENSIONS": [
         "cogs.events", 
