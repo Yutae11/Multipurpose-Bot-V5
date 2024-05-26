@@ -1,17 +1,17 @@
 {
     "OWNER_IDS": [
-        166692371981926400
+        1219624638628233247
     ],
     "TOKEN": "BOT-TOKEN-HERE",
-    "BotName": "Incite",
-    "serverLink": "https://discord.gg/encoders",
-    "wh_cl": "Webhook-for-command-logs",
-    "wh_bl": "Webhook-for-guild-logs",
+    "BotName": "Nexus",
+    "serverLink": "https://discord.com/invite/w9B4fJjdP8",
+    "wh_cl": "https://discord.com/api/webhooks/1242504491526262845/BjWrWxIL8bsrU1Zt2sKqAPZueJofxzEuOuexknSTJvaTYQgm8pOrfM7jteZNMWczEyxX",
+    "wh_bl": "https://discord.com/api/webhooks/1242504491526262845/BjWrWxIL8bsrU1Zt2sKqAPZueJofxzEuOuexknSTJvaTYQgm8pOrfM7jteZNMWczEyxX",
     "statusText": ".help",
     "EXTENSIONS": [
         "cogs.events"
     ],
     "np": [
-        166692371981926400
+        1219624638628233247
     ]
 }
